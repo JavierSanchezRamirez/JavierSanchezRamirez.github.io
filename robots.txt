@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /blog/
+Disallow: /author/
+Disallow: /es/blog/
+Disallow: /es/author/
+
+Sitemap: https://JavierSanchezRamirez.github.io/en/sitemap.xml 
