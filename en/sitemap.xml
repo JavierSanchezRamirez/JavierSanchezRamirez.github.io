@@ -16,7 +16,7 @@
                 href="https://JavierSanchezRamirez.github.io/"
                 />
   </url>
-  
+  <!--
   <url>
     <loc>https://JavierSanchezRamirez.github.io/blog/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
@@ -31,7 +31,7 @@
                 href="https://JavierSanchezRamirez.github.io/blog/"
                 />
   </url>
-  
+  -->
   <url>
     <loc>https://JavierSanchezRamirez.github.io/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
@@ -136,7 +136,7 @@
                 href="https://JavierSanchezRamirez.github.io/#portfolio"
                 />
   </url>
-  
+  <!--
   <url>
     <loc>https://JavierSanchezRamirez.github.io/author/</loc>
     <xhtml:link
@@ -150,7 +150,7 @@
                 href="https://JavierSanchezRamirez.github.io/author/"
                 />
   </url>
-  
+  -->
   <url>
     <loc>https://JavierSanchezRamirez.github.io/categories/</loc>
     <xhtml:link
@@ -178,7 +178,7 @@
                 href="https://JavierSanchezRamirez.github.io/#about"
                 />
   </url>
-  
+  <!--
   <url>
     <loc>https://JavierSanchezRamirez.github.io/author/Javier/</loc>
     <xhtml:link
@@ -192,7 +192,7 @@
                 href="https://JavierSanchezRamirez.github.io/author/Javier/"
                 />
   </url>
-  
+  -->
   <url>
     <loc>https://JavierSanchezRamirez.github.io/tags/</loc>
     <xhtml:link
